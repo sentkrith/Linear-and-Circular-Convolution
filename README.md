@@ -110,7 +110,8 @@ xlabel("n"); ylabel("Amplitude");
 ## OUTPUT (Circular Convolution): 
 ![WhatsApp Image 2025-09-22 at 15 31 24_20b96bce](https://github.com/user-attachments/assets/6f86cb86-4de4-4b39-bf52-48221b016933)
 
-![WhatsApp Image 2025-09-22 at 15 31 24_114b9097](https://github.com/user-attachments/assets/e4cda6cf-d8b2-495f-ae9b-cb01b360fdc7)
+![WhatsApp Image 2025-09-22 at 15 31 00_0174bc6c](https://github.com/user-attachments/assets/82213644-e015-4333-ba41-7e435286e58c)
+
 
 ## RESULT:
 Linear and Circular Convolution are successfully executed in scilab
